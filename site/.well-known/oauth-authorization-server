@@ -3,5 +3,4 @@
     "authorization_endpoint": "https://misskey-indieauth-cloudflare-page.pages.dev/oauth/authorize",
     "token_endpoint": "https://misskey-indieauth-cloudflare-page.pages.dev/oauth/token",
     "code_challenge_methods_supported": ["S256"]
-    
 }
